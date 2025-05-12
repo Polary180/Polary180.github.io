@@ -1,0 +1,466 @@
+{
+  "Giulio-Cesare": [
+    {
+      "question": "In quale anno è nato Giulio Cesare?",
+      "options": [
+        "100 a.C.",
+        "102 a.C.",
+        "50 a.C."
+      ],
+      "answer": "100 a.C.",
+      "tip": "Giulio Cesare è nato il 12 o 13 luglio del 100 a.C. a Roma."
+    },
+    {
+      "question": "Qual era il ruolo principale di Giulio Cesare nella società romana?",
+      "options": [
+        "Filosofo",
+        "Generale e Statista",
+        "Commerciante"
+      ],
+      "answer": "Generale e Statista",
+      "tip": "Cesare è stato un generale militare e un politico, svolgendo un ruolo cruciale negli eventi che portarono alla fine della Repubblica Romana e all'ascesa dell'Impero Romano."
+    },
+    {
+      "question": "In quale di queste battaglie è noto Giulio Cesare?",
+      "options": [
+        "Battaglia di Alesia",
+        "Battaglia di Hastings",
+        "Battaglia di Waterloo"
+      ],
+      "answer": "Battaglia di Alesia",
+      "tip": "La Battaglia di Alesia (52 a.C.) fu un confronto decisivo nelle Guerre Galliche, in cui Cesare sconfisse le forze galliche comandate da Vercingetorige."
+    },
+    {
+      "question": "Quale frase avrebbe detto Giulio Cesare dopo aver attraversato il fiume Rubicone?",
+      "options": [
+        "Veni, vidi, vici",
+        "Alea iacta est",
+        "Carpe diem"
+      ],
+      "answer": "Alea iacta est",
+      "tip": "'Alea iacta est' significa 'Il dado è tratto' in latino, e segnava la decisione irrevocabile di Cesare di marciare su Roma e sfidare il Senato."
+    },
+    {
+      "question": "Chi era il principale rivale di Giulio Cesare nella Guerra Civile Romana?",
+      "options": [
+        "Pompeo il Grande",
+        "Cicerone",
+        "Marco Antonio"
+      ],
+      "answer": "Pompeo il Grande",
+      "tip": "Pompeo una volta era alleato di Cesare, ma la loro rivalità si trasformò in una guerra civile, che terminò con la vittoria di Cesare."
+    },
+    {
+      "question": "Quale famoso titolo dichiarò Giulio Cesare per sé stesso?",
+      "options": [
+        "Imperatore di Roma",
+        "Dittatore a vita",
+        "Re di Roma"
+      ],
+      "answer": "Dittatore a vita",
+      "tip": "Nel 44 a.C., Cesare fu nominato 'dittatore perpetuo', segnando un punto cruciale nella concentrazione del potere e nella fine della Repubblica Romana."
+    },
+    {
+      "question": "Chi fu responsabile dell'assassinio di Giulio Cesare?",
+      "options": [
+        "Bruto e Cassio",
+        "Marco Antonio",
+        "Nerone"
+      ],
+      "answer": "Bruto e Cassio",
+      "tip": "Giulio Cesare fu assassinato il 15 marzo del 44 a.C. da un gruppo di senatori, tra cui Marco Giunio Bruto e Caio Cassio Longino, che temevano il suo crescente potere."
+    },
+    {
+      "question": "Quale di queste è una riforma attuata da Giulio Cesare?",
+      "options": [
+        "Calendario giuliano",
+        "Impero Romano",
+        "Le Dodici Tavole"
+      ],
+      "answer": "Calendario giuliano",
+      "tip": "Cesare riformò il calendario romano introducendo il calendario giuliano, che è stato il precursore dell'attuale calendario gregoriano."
+    },
+    {
+      "question": "In quale guerra Giulio Cesare espanse il territorio romano in Gallia?",
+      "options": [
+        "Le Guerre Puniche",
+        "Le Guerre Galliche",
+        "Le Guerre Civili"
+      ],
+      "answer": "Le Guerre Galliche",
+      "tip": "Le Guerre Galliche (58–50 a.C.) furono una serie di campagne militari condotte da Cesare, che portarono alla conquista della Gallia."
+    }
+  ],
+  "Ottaviano": [
+    {
+      "question": "In quale anno è nato Ottaviano?",
+      "options": [
+        "63 a.C.",
+        "50 a.C.",
+        "30 a.C."
+      ],
+      "answer": "63 a.C.",
+      "tip": "Ottaviano nacque il 23 settembre del 63 a.C. a Roma, e in seguito divenne il primo imperatore romano con il nome di Augusto."
+    },
+    {
+      "question": "Cosa fece Ottaviano dopo la morte di Giulio Cesare?",
+      "options": [
+        "Assunse il titolo di Dittatore a vita",
+        "Divenne il primo imperatore di Roma",
+        "Assunse il potere insieme a Marco Antonio"
+      ],
+      "answer": "Assunse il potere insieme a Marco Antonio",
+      "tip": "Ottaviano, dopo la morte di Cesare, formò un secondo triumvirato con Marco Antonio e Lepido, prima di diventare l'unico leader di Roma."
+    },
+    {
+      "question": "In quale battaglia Ottaviano sconfisse Marco Antonio e Cleopatra?",
+      "options": [
+        "Battaglia di Azio",
+        "Battaglia di Alesia",
+        "Battaglia di Canne"
+      ],
+      "answer": "Battaglia di Azio",
+      "tip": "La Battaglia di Azio (31 a.C.) fu decisiva per la vittoria di Ottaviano e portò alla fine del potere di Marco Antonio e Cleopatra."
+    },
+    {
+      "question": "Quale titolo assunse Ottaviano nel 27 a.C.?",
+      "options": [
+        "Dittatore a vita",
+        "Imperatore",
+        "Augusto"
+      ],
+      "answer": "Augusto",
+      "tip": "Nel 27 a.C., Ottaviano assunse il titolo di 'Augusto', segnando l'inizio dell'Impero Romano."
+    },
+    {
+      "question": "Chi fu il principale alleato di Ottaviano nella lotta contro Marco Antonio?",
+      "options": [
+        "Tiberio",
+        "Agrippa",
+        "Lepido"
+      ],
+      "answer": "Agrippa",
+      "tip": "Agrippa fu uno dei più stretti alleati di Ottaviano e giocò un ruolo fondamentale nelle vittorie militari, inclusa la Battaglia di Azio."
+    },
+    {
+      "question": "Quale fu una delle principali riforme di Ottaviano?",
+      "options": [
+        "Riforma delle leggi civili romane",
+        "Riforma del calendario giuliano",
+        "Riforma dell'esercito e delle legioni"
+      ],
+      "answer": "Riforma dell'esercito e delle legioni",
+      "tip": "Ottaviano riorganizzò l'esercito romano, creando legioni permanenti e imponendo disciplina e fedeltà alle truppe."
+    },
+    {
+      "question": "Qual è uno degli epiteti associati ad Ottaviano?",
+      "options": [
+        "Cesare",
+        "Augusto",
+        "Imperatore dei Romani"
+      ],
+      "answer": "Augusto",
+      "tip": "Il titolo 'Augusto' simboleggiava il potere divino e l'autorità morale che Ottaviano cercava di proiettare come primo imperatore."
+    },
+    {
+      "question": "Quale fu la principale causa della fine della Repubblica Romana sotto Ottaviano?",
+      "options": [
+        "La guerra civile contro Marco Antonio",
+        "Le guerre contro i Cartaginesi",
+        "La riforma delle leggi sociali"
+      ],
+      "answer": "La guerra civile contro Marco Antonio",
+      "tip": "La guerra civile tra Ottaviano e Marco Antonio portò alla fine della Repubblica Romana e all'instaurarsi dell'Impero."
+    },
+    {
+      "question": "Quale fu la politica estera di Ottaviano nei confronti dei popoli confinanti?",
+      "options": [
+        "Espansione verso l'Oriente",
+        "Conquista pacifica",
+        "Difesa e consolidamento dei confini"
+      ],
+      "answer": "Difesa e consolidamento dei confini",
+      "tip": "Ottaviano si concentrò sul rafforzamento dei confini imperiali, evitando nuove espansioni militari ma consolidando il controllo sui territori."
+    }
+  ],
+    
+  "Giulio-Claudia": [
+    {
+      "question": "Chi è stato il primo imperatore della dinastia Giulio-Claudia?",
+      "options": [
+        "Augusto",
+        "Tiberio",
+        "Caligola"
+      ],
+      "answer": "Augusto",
+      "tip": "Augusto, o Ottaviano, è stato il fondatore della dinastia Giulio-Claudia e il primo imperatore di Roma."
+    },
+    {
+      "question": "Quale imperatore della dinastia Giulio-Claudia è noto per la sua grande crudeltà?",
+      "options": [
+        "Nerone",
+        "Tiberio",
+        "Caligola"
+      ],
+      "answer": "Caligola",
+      "tip": "Caligola, noto per la sua brutalità e per l'eccentricità del suo governo, è uno degli imperatori più famosi della dinastia Giulio-Claudia."
+    },
+    {
+      "question": "Cosa ha fatto Tiberio durante il suo impero?",
+      "options": [
+        "Ha governato in modo autoritario",
+        "Ha introdotto riforme democratiche",
+        "Ha conquistato nuovi territori"
+      ],
+      "answer": "Ha governato in modo autoritario",
+      "tip": "Tiberio, secondo imperatore della dinastia Giulio-Claudia, è noto per il suo governo autoritario e per l'isolamento nelle sue ultime fasi di regno."
+    },
+    {
+      "question": "Chi fu l'imperatore che succedette a Caligola?",
+      "options": [
+        "Nerone",
+        "Claudio",
+        "Tiberio"
+      ],
+      "answer": "Claudio",
+      "tip": "Claudio, che succedette a Caligola, divenne imperatore dopo l'assassinio del suo predecessore, e la sua amministrazione fu caratterizzata da un buon governo."
+    },
+    {
+      "question": "Quale imperatore della dinastia Giulio-Claudia ha perseguito una politica di espansione?",
+      "options": [
+        "Claudio",
+        "Tiberio",
+        "Nerone"
+      ],
+      "answer": "Claudio",
+      "tip": "Claudio ha esteso i confini dell'Impero Romano, tra cui l'invasione della Britannia."
+    },
+    {
+      "question": "Chi fu l'imperatore che fece costruire il famoso 'Anfiteatro Flavio', noto come il Colosseo?",
+      "options": [
+        "Vespasiano",
+        "Nerone",
+        "Tiberio"
+      ],
+      "answer": "Vespasiano",
+      "tip": "Vespasiano, pur non facendo parte della dinastia Giulio-Claudia, avviò la costruzione del Colosseo che fu completata da suo figlio Tito."
+    },
+    {
+      "question": "Quale imperatore ha avuto una reputazione di tiranno e perseguitò i cristiani?",
+      "options": [
+        "Nerone",
+        "Caligola",
+        "Augusto"
+      ],
+      "answer": "Nerone",
+      "tip": "Nerone è tristemente famoso per aver perseguitato i cristiani e per il suo regno segnato da eccessi e abusi di potere."
+    },
+    {
+      "question": "Quale imperatore della dinastia Giulio-Claudia fu il primo a diventare divinizzato dopo la morte?",
+      "options": [
+        "Augusto",
+        "Tiberio",
+        "Nerone"
+      ],
+      "answer": "Augusto",
+      "tip": "Augusto fu il primo imperatore romano a essere divinizzato, segnando un importante momento nella religiosità romana."
+    },
+    {
+      "question": "Chi fu l'imperatore che fu coinvolto in una congiura che portò alla sua morte, segnando la fine della dinastia Giulio-Claudia?",
+      "options": [
+        "Nerone",
+        "Claudio",
+        "Caligola"
+      ],
+      "answer": "Nerone",
+      "tip": "Nerone fu coinvolto in una serie di congiure e rivolte che portarono al suo suicidio, segnando la fine della dinastia Giulio-Claudia."
+    }
+  ],
+
+
+  "Flavia": [
+    {
+      "question": "Chi fu il primo imperatore della dinastia Flavia?",
+      "options": [
+        "Vespasiano",
+        "Tito",
+        "Domiziano"
+      ],
+      "answer": "Vespasiano",
+      "tip": "Vespasiano fu il primo imperatore della dinastia Flavia e regnò dal 69 d.C. al 79 d.C."
+    },
+    {
+      "question": "Cosa fece Tito durante il suo impero?",
+      "options": [
+        "Completò la costruzione del Colosseo",
+        "Iniziò una serie di riforme",
+        "Espanse i confini dell'Impero Romano"
+      ],
+      "answer": "Completò la costruzione del Colosseo",
+      "tip": "Tito completò la costruzione dell'Anfiteatro Flavio (Colosseo) e durante il suo regno ci fu la distruzione di Pompei a causa dell'eruzione del Vesuvio."
+    },
+    {
+      "question": "Quale imperatore della dinastia Flavia è stato noto per la sua crudeltà?",
+      "options": [
+        "Domiziano",
+        "Vespasiano",
+        "Tito"
+      ],
+      "answer": "Domiziano",
+      "tip": "Domiziano, noto per la sua gestione autoritaria, è stato spesso descritto come un imperatore tirannico."
+    },
+    {
+      "question": "Chi ha preso il potere subito dopo la morte di Vespasiano?",
+      "options": [
+        "Tito",
+        "Domiziano",
+        "Nerva"
+      ],
+      "answer": "Tito",
+      "tip": "Tito, figlio di Vespasiano, salì al potere dopo la morte del padre e regnò dal 79 al 81 d.C."
+    },
+    {
+      "question": "Cosa successe sotto il regno di Vespasiano?",
+      "options": [
+        "Si consolidò l'impero romano dopo la guerra civile",
+        "Iniziò la costruzione del Colosseo",
+        "Entrò in conflitto con i germani"
+      ],
+      "answer": "Si consolidò l'impero romano dopo la guerra civile",
+      "tip": "Vespasiano stabilizzò l'impero dopo l'anno dei quattro imperatori e iniziò la costruzione del Colosseo."
+    },
+    {
+      "question": "Quale evento importante accadde durante il regno di Tito?",
+      "options": [
+        "La distruzione di Pompei",
+        "L'invasione della Britannia",
+        "La costruzione del Pantheon"
+      ],
+      "answer": "La distruzione di Pompei",
+      "tip": "L'eruzione del Vesuvio nel 79 d.C. distrusse Pompei, Ercolano e Stabia durante il regno di Tito."
+    },
+    {
+      "question": "Chi fu l'imperatore che governò durante il completamento della costruzione del Colosseo?",
+      "options": [
+        "Tito",
+        "Vespasiano",
+        "Domiziano"
+      ],
+      "answer": "Tito",
+      "tip": "La costruzione del Colosseo, avviata da Vespasiano, fu completata sotto l'imperatore Tito."
+    },
+    {
+      "question": "Cosa successe alla dinastia Flavia alla morte di Domiziano?",
+      "options": [
+        "L'inizio della dinastia Nerva-Antonina",
+        "Il consolidamento della dinastia Flavia",
+        "L'invasione dei barbari"
+      ],
+      "answer": "L'inizio della dinastia Nerva-Antonina",
+      "tip": "Dopo la morte di Domiziano, che fu assassinato nel 96 d.C., Nerva divenne imperatore, segnando l'inizio della dinastia Nerva-Antonina."
+    }
+  ],
+  "Antonini": [
+    {
+      "question": "Chi fu il primo imperatore della dinastia degli Antonini?",
+      "options": [
+        "Nerva",
+        "Traiano",
+        "Adriano"
+      ],
+      "answer": "Traiano",
+      "tip": "Traiano fu il primo imperatore della dinastia Antonina e regnò dal 98 d.C. al 117 d.C."
+    },
+    {
+      "question": "Quale imperatore degli Antonini è conosciuto per aver espanso notevolmente i confini dell'Impero Romano?",
+      "options": [
+        "Traiano",
+        "Adriano",
+        "Marco Aurelio"
+      ],
+      "answer": "Traiano",
+      "tip": "Traiano è noto per le sue conquiste, in particolare la conquista della Dacia, che portò all'espansione dell'Impero Romano."
+    },
+    {
+      "question": "Quale imperatore degli Antonini ha ordinato la costruzione del celebre muro in Britannia?",
+      "options": [
+        "Marco Aurelio",
+        "Adriano",
+        "Antonino Pio"
+      ],
+      "answer": "Adriano",
+      "tip": "Adriano costruì il Muro di Adriano in Britannia per segnare il confine settentrionale dell'Impero Romano."
+    },
+    {
+      "question": "Cosa accadde sotto il regno di Adriano?",
+      "options": [
+        "L'Impero Romano raggiunse la sua massima espansione",
+        "Fu creata una pace duratura attraverso l'Impero",
+        "Iniziò una serie di guerre civili"
+      ],
+      "answer": "Fu creata una pace duratura attraverso l'Impero",
+      "tip": "Adriano è ricordato per aver consolidato le frontiere imperiali e aver portato un periodo di relativa pace all'interno dell'Impero Romano."
+    },
+    {
+      "question": "Quale imperatore Antonino è noto per la sua lunga e pacifica reggenza?",
+      "options": [
+        "Marco Aurelio",
+        "Antonino Pio",
+        "Lucio Vero"
+      ],
+      "answer": "Antonino Pio",
+      "tip": "Antonino Pio è noto per aver governato in un periodo di pace e prosperità, senza conflitti militari significativi."
+    },
+    {
+      "question": "Chi fu l'imperatore degli Antonini durante la famosa campagna contro i Marcomanni?",
+      "options": [
+        "Marco Aurelio",
+        "Lucio Vero",
+        "Adriano"
+      ],
+      "answer": "Marco Aurelio",
+      "tip": "Marco Aurelio è famoso per le sue guerre contro le tribù germaniche, in particolare i Marcomanni, che minacciavano le frontiere dell'Impero Romano."
+    },
+    {
+      "question": "Chi fu l'imperatore che governò durante la morte di Marco Aurelio?",
+      "options": [
+        "Lucio Vero",
+        "Commodo",
+        "Antonino Pio"
+      ],
+      "answer": "Commodo",
+      "tip": "Commodo, figlio di Marco Aurelio, divenne imperatore dopo la morte del padre nel 180 d.C., ma il suo regno segnò l'inizio di un periodo di declino per l'Impero."
+    },
+    {
+      "question": "Cosa accadde durante il regno di Marco Aurelio?",
+      "options": [
+        "L'Impero Romano affrontò una serie di guerre con le tribù germaniche",
+        "L'Impero Romano espanse i suoi confini fino all'India",
+        "Il Cristianesimo divenne la religione ufficiale dell'Impero"
+      ],
+      "answer": "L'Impero Romano affrontò una serie di guerre con le tribù germaniche",
+      "tip": "Marco Aurelio è noto per aver affrontato le invasioni barbariche durante le guerre marcomanniche."
+    },
+    {
+      "question": "Quale imperatore Antonino ha cercato di riformare il sistema giuridico romano?",
+      "options": [
+        "Marco Aurelio",
+        "Adriano",
+        "Antonino Pio"
+      ],
+      "answer": "Antonino Pio",
+      "tip": "Antonino Pio ha promosso riforme legali che hanno migliorato la giustizia nell'Impero Romano, enfatizzando la protezione delle libertà civili."
+    },
+    {
+      "question": "Cosa accadde alla dinastia degli Antonini dopo la morte di Marco Aurelio?",
+      "options": [
+        "Il figlio Commodo divenne imperatore, ma la dinastia ebbe un declino",
+        "L'Impero fu diviso tra i suoi figli",
+        "Adriano tornò al potere"
+      ],
+      "answer": "Il figlio Commodo divenne imperatore, ma la dinastia ebbe un declino",
+      "tip": "Commodo, pur essendo figlio di Marco Aurelio, è stato un imperatore controverso e il suo regno segnò l'inizio di un periodo di difficoltà per l'Impero Romano."
+    }
+  ]
+
+}
