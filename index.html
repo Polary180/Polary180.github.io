@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>English Grammar Quiz</title>
+    <title>Quiz di Storia Romana</title>
     <link rel="stylesheet" href="styles.css">
     <script defer src="script.js"></script>
 </head>
@@ -11,63 +11,67 @@
     <button id="dark-mode-toggle" onclick="toggleDarkMode()">🌙</button>
 
     <div class="quiz-container" id="home-page">
-        <h1>Welcome to the English Grammar Quiz</h1>
+        <h1>Benvenuto al Quiz di Storia Romana</h1>
         <div class="page-select">
-            <p>Select a topic:</p>
-            <button class="select-button" onclick="showRules()">View Grammar Rules</button>
-            <button class="select-button" onclick="startQuiz('present-simple')">Present Simple</button>
-            <button class="select-button" onclick="startQuiz('past-simple')">Past Simple</button>
-            <button class="select-button" onclick="startQuiz('present-continuous')">Present Continuous</button>
-            <button class="select-button" onclick="startQuiz('past-continuous')">Past Continuous</button>
-            <button class="select-button" onclick="startQuiz('present-perfect')">Present Perfect</button>
-            <button class="select-button" onclick="startQuiz('past-perfect')">Past Perfect</button>
-            <button class="select-button" onclick="startQuiz('future-simple')">Future Simple</button>
-            <button class="select-button" onclick="startQuiz('modals')">Modals</button>
-            <button class="select-button" onclick="startQuiz('random')">Random Topic</button>
+            <p>Seleziona un argomento:</p>
+            <button class="select-button" onclick="showRules()">Appunti</button>
+            <button class="select-button" onclick="startQuiz('Giulio-Cesare')">Giulio Cesare</button>
+            <button class="select-button" onclick="startQuiz('Ottaviano')">Ottaviano</button>
+            <button class="select-button" onclick="startQuiz('Giulio-Claudia')">Dinastia Giulio-Claudia</button>
+            <button class="select-button" onclick="startQuiz('Flavia')">Dinastia Flavia</button>
+            <button class="select-button" onclick="startQuiz('Antonini')">Gli Antonini</button>
+            <button class="select-button" onclick="startQuiz('random')">Random</button>
         </div>
     </div>
 
     <div class="quiz-container" id="quiz-page" style="display:none;">
-        <h1 id="quiz-title">English Grammar Quiz</h1>
+        <h1 id="quiz-title">Quiz di Storia!</h1>
         <div class="progress-bar"><div class="progress-bar-fill" id="progress-fill"></div></div>
-        <p id="question">Loading question...</p>
+        <p id="question">Caricamento domanda...</p>
         <ul id="options"></ul>
         <div id="feedback" style="display:none;"></div>
-        <button id="next-question" onclick="idk()">Next Question</button>
-        <div class="score" id="score">Score: 0</div>
+        <button id="next-question" onclick="idk()">Prossima domanda</button>
+        <div class="score" id="score">Punteggio: 0</div>
         <div id="streak">🔥 Streak: 0</div>
         <div id="timer"></div>
-        <button id="return-home" onclick="location.reload()">Return to Topics</button>
+        <button id="return-home" onclick="location.reload()">Torna agli Argomenti</button>
     </div>
 
     <div class="quiz-container" id="rules-page" style="display: none;">
-        <h1>Grammar Rules</h1>
+        <h1>Appunti di Storia</h1>
         <div id="rules-content">
-            <button class="select-button" onclick="toggleRuleSection('present-simple')">Present Simple</button>
-            <div class="rule-section" id="rule-present-simple">
-                <p><strong>Usage:</strong> Used for habitual actions and general truths.</p>
-                <p><strong>Example:</strong> She <em>reads</em> every night.</p>
-            </div>
-    
-            <button class="select-button" onclick="toggleRuleSection('past-simple')">Past Simple</button>
-            <div class="rule-section" id="rule-past-simple">
-                <p><strong>Usage:</strong> Used for completed actions in the past.</p>
-                <p><strong>Example:</strong> He <em>went</em> to the store yesterday.</p>
+            <button class="select-button" onclick="toggleRuleSection('Giulio Cesare')">Giulio Cesare</button>
+            <div class="rule-section" id="rule-Giulio Cesare">
+                <p><strong>Giulio Cesare:</strong> Generale e dittatore romano. Espanse il dominio romano in Gallia, attraversò il Rubicone nel 49 a.C., provocando una guerra civile. Fu assassinato nel 44 a.C. dai senatori guidati da Bruto e Cassio.</p>
             </div>
 
-            <button class="select-button" onclick="toggleRuleSection('present-continuous')">Present Continuous</button>
-            <div class="rule-section" id="rule-present-continuous">
-                <p><strong>Usage:</strong> Used for actions started in the past that didn't end yet.</p>
-                <p><strong>Example:</strong> He <em>is walking</em> down the street now.</p>
+            <button class="select-button" onclick="toggleRuleSection('Ottaviano')">Ottaviano</button>
+            <div class="rule-section" id="rule-Ottaviano">
+                <p><strong>Ottaviano/Augusto:</strong> Primo imperatore romano. Consolidò il potere dopo la morte di Cesare, sconfisse Antonio e Cleopatra, e diede inizio al Principato nel 27 a.C. Regnò fino al 14 d.C.</p>
+            </div>
+
+            <button class="select-button" onclick="toggleRuleSection('Giulio-Claudia')">Dinastia Giulio-Claudia</button>
+            <div class="rule-section" id="rule-Giulio-Claudia">
+                <p><strong>Dinastia Giulio-Claudia:</strong> Comprende i primi cinque imperatori: Augusto, Tiberio, Caligola, Claudio e Nerone. Dinastia caratterizzata da intrighi, abusi di potere, e declino della repubblica.</p>
+            </div>
+
+            <button class="select-button" onclick="toggleRuleSection('Flavia')">Dinastia Flavia</button>
+            <div class="rule-section" id="rule-Flavia">
+                <p><strong>Dinastia Flavia:</strong> Comprende Vespasiano, Tito e Domiziano. Restaurarono stabilità dopo la guerra civile del 69 d.C. Costruzione del Colosseo e repressione della rivolta ebraica.</p>
+            </div>
+
+            <button class="select-button" onclick="toggleRuleSection('Antonini')">Gli Antonini</button>
+            <div class="rule-section" id="rule-Antonini">
+                <p><strong>Gli Antonini:</strong> Periodo di massimo splendore dell'Impero. Imperatori come Traiano, Adriano, Antonino Pio e Marco Aurelio portarono stabilità, riforme e difesa dei confini.</p>
             </div>
         </div>
-        <button id="return-home" onclick="goHome()">Return to Topics</button>
+        <button id="return-home" onclick="goHome()">Torna agli Argomenti</button>
     </div>
 
     <div class="quiz-container" id="summary-page" style="display:none;">
-        <h1>Quiz Summary</h1>
+        <h1>Riepilogo Quiz</h1>
         <div id="summary-container"></div>
-        <button id="return-home" onclick="location.reload()">Return to Topics</button>
+        <button id="return-home" onclick="location.reload()">Torna agli argomenti</button>
     </div>
 
     <audio id="correct-sound" src="sounds/correct-6033.mp3" preload="auto"></audio>
