@@ -57,6 +57,10 @@ h1 {
     color: #000;
 }
 
+.confetti {
+    display: flex;
+}
+
 #question {
     font-size: 20px;
     margin-bottom: 20px;

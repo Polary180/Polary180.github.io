@@ -5,7 +5,7 @@ let currentTopic = "present-simple";
 let answered = false;
 let questionsData = {};
 let quizTimer;
-let remainingTime = 180;
+let remainingTime = 900;
 let allQuestionsAnswered = false;
 
 async function loadQuestions() {
